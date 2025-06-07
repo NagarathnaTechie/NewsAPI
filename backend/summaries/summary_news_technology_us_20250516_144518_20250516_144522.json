@@ -1,0 +1,80 @@
+{
+    "source": "data/news_technology_us_20250516_144518.json",
+    "original_category": "technology",
+    "original_country": "us",
+    "timestamp": "2025-05-16 14:45:18",
+    "articles": [
+        {
+            "id": "47ec6a29a56633d4aee9f8148d4ac63b",
+            "title": "First look at Kingdom Hearts 4 in three years suggests Mickey Mouse is playable - Eurogamer",
+            "url": "https://www.eurogamer.net/first-look-at-kingdom-hearts-4-in-three-years-suggests-mickey-mouse-is-playable",
+            "urlToImage": "https://assetsio.gnwcdn.com/KINGDOM-HEARTS-III-%E2%80%93-Opening-Movie-Trailer-1-23-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "source": "Eurogamer.net",
+            "summary": "To our Kingdom Hearts community,\n\n\n\nWe’re currently working hard on Kingdom Hearts IV and will continue pouring ourselves into the game’s development. It's been six years since the release of Kingdom Hearts 3 on PS4 and Xbox One and fans are eagerly anticipating the next installment. Last year, series director Tetsuya Nomura said Kingdom Hearts 4 will lead towards a series conclusion as he looks to retire. The Kingdom Hearts games fuse together the worlds of Disney and Final Fantasy, but we're yet to see which Disney kingdoms will be featured in the new game, nor which Final Fantasy characters will make an appearance."
+        },
+        {
+            "id": "92fc7b66c28922cf7c0b7415110f8859",
+            "title": "Apple Vision Pro Price Guessed Incorrectly Multiple Times On ‘The Price Is Right’ Show For The 256GB Version, Despite The Headset Garnering Massive Attention Worldwide - Wccftech",
+            "url": "https://wccftech.com/apple-vision-pro-price-guessed-incorrectly-on-the-price-is-right-show/",
+            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/05/Apple-Vision-Pro-4.jpg",
+            "source": "Wccftech",
+            "summary": "The closest that one of the contestants came to the Apple Vision Pro was $1,270, and even then, it was not half of the device’s $3,499 retail price in the U.S. for the 256GB model. Given that the firm has a trillion-dollar status and the majority of individuals would be familiar with the pricing, it is interesting that none of the four people came even remotely close to the head-mounted wearable’s $3,499 figure, indicating that regular buyers expected it to be significantly more affordable than it already is. It appears that there are few affluent technology enthusiasts around because the Apple Vision Pro did not even garner 500,000 shipped units, highlighting that an affordable alternative could be a potential solution to help the California-based giant ramp up shipments worldwide."
+        },
+        {
+            "id": "60e171c4f7fcb2d54b8704b85fa2dfce",
+            "title": "Material 3 Expressive is already making its way to Wear OS Tiles - 9to5Google",
+            "url": "http://9to5google.com/2025/05/14/material-3-expressive-wear-os-tiles/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Material-3-Expressive-Wear-OS-buttons.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "source": "9to5google.com",
+            "summary": "Material 3 Expressive will debut on the Pixel Watch later this year, but app updates are already underway. Old vs. new (Credit: u/TurningTablesAgain)\n\nAdvertisement - scroll for more content\n\nGoogle Calendar for Wear OS was updated to version 2025.18.1 today, though we’re not seeing the Material 3 Expressive buttons live on watches we checked today. More broadly, Wear OS Tiles with M3E will get much denser with new layouts that show and offer much more."
+        },
+        {
+            "id": "4992089ec1646f20d85635b6e53299c4",
+            "title": "Mortal Kombat 1 Looks To Be Winding Down Support With The 'Definitive Edition' - Nintendo Life",
+            "url": "https://www.nintendolife.com/news/2025/05/mortal-kombat-1-looks-to-be-winding-down-support-with-the-definitive-edition",
+            "urlToImage": "https://images.nintendolife.com/2445379fad2a8/large.jpg",
+            "source": "Nintendo Life",
+            "summary": "This again follows rumours in 2024 about NetherRealm supposedly axing its plans for a second story expansion and third Kombat Pack. This version of the game, which is available for $59.99 USD (or your regional equivalent), is said to offer the \"most extensive Mortal Kombat 1 experience\" including not only the base game and more recent Khaos Reigns story expansion but also both Kombat Packs (including all of the DLC fighters so far). Alongside this announcement is a \"May Hotfix\" update which contains character and Kameo Fighter adjustments."
+        },
+        {
+            "id": "739ab43c1ca2262ede430a769c18c0fa",
+            "title": "Apple Intelligence: Three features Apple needs to copy from the competition - 9to5Mac",
+            "url": "https://9to5mac.com/ai-features-apple-needs-to-adopt/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/apple-intelligence-rainbow.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "source": "9to5Mac",
+            "summary": "Which AI features from other apps and services would you like to see Apple adopt natively on the Mac and the iPhone? As long as users know what is going on, they can decide whether to use a feature. While applying AI to a photo may be helpful, it already feels like a prehistoric workflow compared to just opening the camera or messing with the phone and talking about what is on the screen with ChatGPT. However, passing on the development of these features due to privacy challenges is no longer an option. #3: OpenAI’s Screen Sharing\n\nCurrently, Apple offers Visual Intelligence, which lets the user “click and hold it to do things like look up details about a restaurant or business; have text translated, summarized, or read aloud; identify plants and animals; and more”."
+        },
+        {
+            "id": "69ad0248c874492cb80d4109ee0ad4fb",
+            "title": "The latest Apple Maps update will bring out your bougie side - TechCrunch",
+            "url": "https://techcrunch.com/2025/05/14/the-latest-apple-maps-update-will-bring-out-your-bougie-side/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1224111372_9d6ea2.jpg?resize=1200,777",
+            "source": "TechCrunch",
+            "summary": "Though the MICHELIN Guide is most well-known for its dining expertise, it also offers hotel recommendations and booking services, which will also be available on Apple Maps. The Golf Digest integration on Maps will function similarly, allowing users to filter their searches to find recommended golf courses — but we imagine more users will be looking for places to eat, rather than to tee off. These partners will also contribute to Apple Maps’ curated guides, which can help travelers find their way to top destinations on a visit."
+        },
+        {
+            "id": "50c81a356f8cea7573d94e7fd2a62a29",
+            "title": "2025 MacBook Air Is Now Cheaper Than 2020 Model, Amazon Slashes Prices Like Never Before - Gizmodo",
+            "url": "https://gizmodo.com/2025-macbook-air-is-now-cheaper-than-2020-model-amazon-slashes-prices-like-never-before-2000602421",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/macbookair-2025.jpg",
+            "source": "Gizmodo.com",
+            "summary": "The fact that a new release is already discounted by a huge amount is unprecedented for Apple products. With 16GB of total memory and a 256GB SSD (the 512GB model is also on sale), this MacBook Air is built for multitasking and performance. Currently, Amazon is selling a great deal on the freshly released 2025 MacBook Air 13-inch, a power-laptop that only came out two months ago. At only $849, down from the original $999, this is a unique opportunity to own Apple’s latest ultra-portable powerhouse at a price that’s hard to believe.N ow is the time to act before this deal inevitably sells out."
+        },
+        {
+            "id": "59efda8ed5ea74d070e11f3416fb0132",
+            "title": "New 2025 iPad Now Costs Less Than AirPods Pro, Amazon Clears Out Stock - Gizmodo",
+            "url": "https://gizmodo.com/new-2025-ipad-now-costs-less-than-airpods-pro-amazon-clears-out-stock-2000602403",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/12/ipad-.jpg",
+            "source": "Gizmodo.com",
+            "summary": "With its all-but-unanimous praise (an average review score of 4.7 out of 5 from over 1,200 reviews), the 2025 iPad 11-inch is a productivity monster. See at Amazon\n\nIt Can Replace Your Laptop\n\nThe 2025 iPad 11-inch is a real monster and it changes everything you know a tablet can be: It features the A16 chip which is the same high-end processor that powers Apple’s top-of-the-line devices (iPhone 16) for massive performance on everything from creative tasks to multitasking and graphics-intensive gaming. It’s incredible to receive a brand-new 2025 iPad (which is powered by Apple’s advanced A16 chip) at an all-time low price on Amazon."
+        },
+        {
+            "id": "9673e7e2d5668d42000cb325dfaae905",
+            "title": "Epic Resubmits Fortnite to U.S. App Store After Not Hearing From Apple for 120+ Hours - MacRumors",
+            "url": "https://www.macrumors.com/2025/05/14/epic-resubmits-fortnite-to-app-store/",
+            "urlToImage": "https://images.macrumors.com/t/pEcGnr4wvdeAn0ib_eEGxq98EkI=/1600x/article-new/2020/08/fortnite-apple-logo-2.5.jpg",
+            "source": "MacRumors",
+            "summary": "It's still not clear if Apple will approve Fortnite for the U.S. ‌App Store‌, because the Epic Games vs. Apple lawsuit made it clear that Apple was well within its rights to terminate Epic's account, and does not have an obligation to allow Fortnite into the ‌App Store‌. Apple banned the ‌Epic Games‌ developer account back in 2020 when ‌Epic Games‌ violated its ‌App Store‌ rules to add web-based purchases, kicking off a multi-year legal battle. Apple's App Review guidelines suggest that 90 percent of ‌App Store‌ submissions are reviewed in less than 24 hours, but it's clear that Fortnite's return to the ‌App Store‌ is not straightforward for Apple."
+        }
+    ]
+}

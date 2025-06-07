@@ -1,0 +1,64 @@
+{
+    "source": "data/news_business_us_20250516_143200.json",
+    "original_category": "business",
+    "original_country": "us",
+    "timestamp": "2025-05-16 14:32:00",
+    "articles": [
+        {
+            "id": "00d75abbe2b8fcf72129b20f5bdcf55f",
+            "title": "Walmart will report earnings before the bell. Here's what to expect - CNBC",
+            "url": "https://www.cnbc.com/2025/05/15/walmart-wmt-q1-2026-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108131051-1744402361399-gettyimages-2209110954-AFP_423C4WD.jpeg?v=1744402451&w=1920&h=1080",
+            "source": "CNBC",
+            "summary": "Here is what the big-box retailer reported for the three-month period that ended May 2 compared with Wall Street's estimates, according to a survey of analysts by LSEG: Earnings per share: 61 cents, adjusted vs. 58 cents expected\n\n61 cents, adjusted vs. 58 cents expected Revenue: $165.61 billion vs. $165.84 billion expected In the fiscal first quarter, Walmart's net income fell to $4.49 billion, or 56 cents per share, compared with $5.10 billion, or 63 cents per share, in the year-ago quarter. Walmart said it expects net sales to increase 3.5% to 4.5% for the fiscal second quarter, but declined to provide guidance for earnings per share or operating income growth because of fluctuating U.S. tariff policy. Yet it marked Walmart's first quarterly revenue miss since February 2020."
+        },
+        {
+            "id": "4a290fcccbcda44e88266a397e0e179d",
+            "title": "S&P 500 futures slip after index posts third consecutive winning day: Live updates - CNBC",
+            "url": "https://www.cnbc.com/2025/05/14/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108145461-17472353652025-05-14t150459z_1033381729_rc2qheajs8p8_rtrmadp_0_usa-stocks.jpeg?v=1747235400&w=1920&h=1080",
+            "source": "CNBC",
+            "summary": "The Nasdaq Composite is higher by 6.6% this week, trailed by the S&P 500, ahead 4.5%, and the Dow, up 2.6%. The 10-year Treasury yield slipped more than 8 basis points to 4.44%, while the rate on the 2-year note slid 9 basis points to 3.96%. Retail sales increased 0.1% in April, which matched consensus estimates, while industrial production numbers for April decreased slightly more than expected. Economists polled by Dow Jones forecast PPI would increase 0.3% on the month."
+        },
+        {
+            "id": "cb794862f760e03d9f3a1a08cd6c3178",
+            "title": "Tariffs: Jaguar Land Rover says it has no plans to build cars in the US - BBC",
+            "url": "https://www.bbc.com/news/articles/ce81x8ke8pgo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6f05/live/caa29d40-311e-11f0-9b54-3b9a7f6d7e44.jpg",
+            "source": "BBC News",
+            "summary": "Jaguar says it has no plans to build cars in the US\n\n1 day ago Share Save Peter Hoskins Business reporter Share Save\n\nReuters"
+        },
+        {
+            "id": "af8cf476e4c68fa0b685d44837a1d9dc",
+            "title": "Moderate Republicans call for fixes to energy tax credit cuts in House GOP megabill - Politico",
+            "url": "https://www.politico.com/live-updates/2025/05/14/congress/moderate-republicans-call-for-fixes-to-energy-tax-credit-cuts-in-house-gop-megabill-00350139",
+            "urlToImage": "https://www.politico.com/dims4/default/6829f4a/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Ff6%2Fdf%2F3e067eae47149c69f47ca8f340fb%2F20230201-natural-resources-16-francis-16.jpg",
+            "source": "Politico",
+            "summary": "Content too short to summarize"
+        },
+        {
+            "id": "e81fb694b3b15cd6bfef53b117240029",
+            "title": "U.S.-China Tariff Cuts: Is the 2025 Stock Market Sell-Off Officially Over? - Nasdaq",
+            "url": "https://www.fool.com/investing/2025/05/14/us-china-tariff-cuts-2025-stock-market-sell-off/",
+            "urlToImage": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+            "source": "Motley Fool",
+            "summary": "However, strong results from top tech companies in the recent earnings season were a reminder that much of the broad market sell-off was based on fears of an economic downturn that had yet to materialize. Great companies can sell off for bad reasons\n\nThe last month and a half or so have been a great lesson on the pitfalls of getting caught up in stock market volatility and letting emotions drive your investment decisions. The same approach applies when the market is going up. The real wins come from investing in top companies and holding them over the long term, not from trying to capitalize perfectly on short-term periods of market volatility. Microsoft, Meta, Alphabet, and American Express are just some of the many examples of companies that were doing just fine even when trade war tensions were hot, yet their stock prices fell anyway. Also, stick to holding shares of companies that you understand and that have strong fundamentals. Outside of big tech, several companies saw their stock prices get crushed for the wrong reasons. In the last few weeks, the VIX has been falling and the S&P 500 has been climbing, a combination that could signal that the worst of the sell-off is over. You can eliminate pressure on yourself by recognizing that you don't have to time the very bottom to buy, nor wait to buy stocks until you can get them at incredible prices."
+        },
+        {
+            "id": "7175b2c4f2b5e098da9d3cc7a232b25d",
+            "title": "Cybercrime spree that hobbled British retailers now aimed at U.S., Google says - NBC News",
+            "url": "https://www.nbcnews.com/tech/security/cybercrime-spree-hobbled-british-retailers-now-aimed-us-google-says-rcna206862",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250514-london-marks-spencer-hack-se-254p-8f8ed0.jpg",
+            "source": "NBC News",
+            "summary": "It’s not yet clear if there is a technical reason for the hackers to target retail companies, such as a vulnerability in a shared industry software program. \"U.S.-based retailers are aware of the threats posted by cybercriminal groups that have recently attacked several major retailers in the United Kingdom, and many companies have taken steps to harden themselves against these criminal groups’ tactics over the past two years,” Christian Beckner, the NRF's vice president of retail technology and cybersecurity, told NBC News in a statement. Hackers behind a series of destructive, financially motivated cyberattacks against some of the U.K.’s largest retailers are now going after big American brands, Google said Wednesday. The casinos, as well as the Co-op Group and Marks and Spencer, were infected with ransomware, a type of malicious software that hackers install on critical systems to lock them up and steal sensitive information."
+        },
+        {
+            "id": "5e99250fb2983fae1daeb15b246b14c7",
+            "title": "CoreWeave Q1 Revenue Beats. Stock Reverses Down Amid 2025 Capital Spending, Revenue Outlook. - Investor's Business Daily",
+            "url": "https://www.investors.com/news/technology/coreweave-stock-crwv-coreweave-earnings-q12025/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2025/04/Stock-Coreweave-04-shutt.jpg",
+            "source": "Investor's Business Daily",
+            "summary": "Reporting earnings for the first time as a public company, CoreWeave (CRWV) on Wednesday reported revenue that handily beat Wall Street estimates. CoreWeave stock reversed down in extended trading af… [+3072 chars]"
+        }
+    ]
+}

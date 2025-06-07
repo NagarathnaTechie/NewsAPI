@@ -1,0 +1,80 @@
+{
+    "source": "data/news_technology_us_20250516_143258.json",
+    "original_category": "technology",
+    "original_country": "us",
+    "timestamp": "2025-05-16 14:32:58",
+    "articles": [
+        {
+            "id": "60e171c4f7fcb2d54b8704b85fa2dfce",
+            "title": "Material 3 Expressive is already making its way to Wear OS Tiles - 9to5Google",
+            "url": "http://9to5google.com/2025/05/14/material-3-expressive-wear-os-tiles/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Material-3-Expressive-Wear-OS-buttons.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "source": "9to5google.com",
+            "summary": "Material 3 Expressive will debut on the Pixel Watch later this year, but app updates are already underway. Old vs. new (Credit: u/TurningTablesAgain)\n\nAdvertisement - scroll for more content\n\nGoogle Calendar for Wear OS was updated to version 2025.18.1 today, though we’re not seeing the Material 3 Expressive buttons live on watches we checked today. More broadly, Wear OS Tiles with M3E will get much denser with new layouts that show and offer much more."
+        },
+        {
+            "id": "69ad0248c874492cb80d4109ee0ad4fb",
+            "title": "The latest Apple Maps update will bring out your bougie side - TechCrunch",
+            "url": "https://techcrunch.com/2025/05/14/the-latest-apple-maps-update-will-bring-out-your-bougie-side/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1224111372_9d6ea2.jpg?resize=1200,777",
+            "source": "TechCrunch",
+            "summary": "Though the MICHELIN Guide is most well-known for its dining expertise, it also offers hotel recommendations and booking services, which will also be available on Apple Maps. The Golf Digest integration on Maps will function similarly, allowing users to filter their searches to find recommended golf courses — but we imagine more users will be looking for places to eat, rather than to tee off. These partners will also contribute to Apple Maps’ curated guides, which can help travelers find their way to top destinations on a visit."
+        },
+        {
+            "id": "59efda8ed5ea74d070e11f3416fb0132",
+            "title": "New 2025 iPad Now Costs Less Than AirPods Pro, Amazon Clears Out Stock - Gizmodo",
+            "url": "https://gizmodo.com/new-2025-ipad-now-costs-less-than-airpods-pro-amazon-clears-out-stock-2000602403",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/12/ipad-.jpg",
+            "source": "Gizmodo.com",
+            "summary": "With its all-but-unanimous praise (an average review score of 4.7 out of 5 from over 1,200 reviews), the 2025 iPad 11-inch is a productivity monster. See at Amazon\n\nIt Can Replace Your Laptop\n\nThe 2025 iPad 11-inch is a real monster and it changes everything you know a tablet can be: It features the A16 chip which is the same high-end processor that powers Apple’s top-of-the-line devices (iPhone 16) for massive performance on everything from creative tasks to multitasking and graphics-intensive gaming. It’s incredible to receive a brand-new 2025 iPad (which is powered by Apple’s advanced A16 chip) at an all-time low price on Amazon."
+        },
+        {
+            "id": "a948a40a80a2fa35499c71bdf4d00706",
+            "title": "Microsoft starts testing ‘Hey, Copilot!’ in Windows - The Verge",
+            "url": "https://www.theverge.com/news/667167/windows-hey-copilot-ai-wake-word-voice-activation",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Hey-Copilot-approved.jpg?quality=90&strip=all&crop=4%2C17.701315824692%2C88.4%2C82.298684175308&w=1200",
+            "source": "The Verge",
+            "summary": "It can recognize the wake word even if you’re offline, but for the Copilot Voice feature to actually do anything, you will need internet access so that it can access cloud processing capabilities. Microsoft is testing a feature for Copilot Voice that will let Windows 11 users start a conversation with the app by saying “Hey Copilot!” Windows Insiders who have the updated app can try it out once they opt in and activate the feature. The FAQ also says that it’s using an on-device wake word spotter with a 10-second audio buffer, and isn’t sending clips to the cloud or saving them locally."
+        },
+        {
+            "id": "6b12ce99befb37e936921c9ce4a18a9d",
+            "title": "The frontier: A trading algorithm that writes itself and evolves - Forexlive",
+            "url": "https://www.forexlive.com/news/the-frontier-a-trading-algorithm-that-writes-itself-and-evolves-20250514/",
+            "urlToImage": "https://images.forexlive.com/images/quant%20models_id_38f21aa8-4dbf-4d47-ab88-a0960f4ff00e_size975.jpg",
+            "source": "ForexLive",
+            "summary": "I can almost guarantee that there are people pouring money into this idea in markets. In any case, could this be the next frontier in trading technology? I'd argue that many of them shouldn't be trading and note that many of the human tasks in markets have been replaced but the future is hard to predict."
+        },
+        {
+            "id": "374d4c432c676e48418612fbbc56b9b4",
+            "title": "89 Million Steam Accounts Allegedly Compromised in a Data Breach. Our Advice: Change Your Password Now - CNET",
+            "url": "https://www.cnet.com/tech/services-and-software/89-million-steam-accounts-allegedly-compromised-in-a-data-breach-our-advice-change-your-password-now/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/c9034b8a2d8895cbc2776457d8f72a3703ad4437/hub/2025/05/14/8843feac-f094-4fb6-9622-7a943db60da7/gettyimages-1234720850.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "source": "CNET",
+            "summary": "If you have a Steam account, it doesn't hurt to change your password now to keep your game library -- and financial information -- secure. Steam doesn't support the use of hardware security keys, which can offer another level of protection, so its in-house 2FA is going to be your best bet to protect your account. If you already have 2FA enabled, be sure to check your email for any suspicious activity linked to your Steam account. But it did recommend regularly checking your Steam account security."
+        },
+        {
+            "id": "65c4fc6165b7b265d91e859f8ad94deb",
+            "title": "12 Games Are Coming To PS Plus Game Catalog Next Week - Kotaku",
+            "url": "https://kotaku.com/ps-plus-extra-free-games-may-2025-catalog-stalker-ps5-1851780673",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/957f2bbd5d3a7e85548176fda70b54b3.jpg",
+            "source": "Kotaku",
+            "summary": "Advertisement\n\nAnyway, here’s the full list of games being added to PS Plus and its various tiers next week:\n\nPlayStation Plus Extra And Premium\n\nSoul Hackers 2 | PS5\n\n\n\nPS5 Sand Land | PS4, PS5\n\nPS4, PS5 Five Nights at Freddy’s: Help Wanted – Full Time Edition | PS4, PS5\n\n\n\nPS4, PS5 Battlefield V | PS4\n\n\n\n| PS4 S.T.A.L.K.E.R. Advertisement\n\nRemember, to access, download, and play these games you’ll need to be an active PS Plus Extra or Premium tier subscriber. I’ve got new PS Plus games to download and play, like Sand Land, Battlefield V, and a whole trilogy of classic STALKER games."
+        },
+        {
+            "id": "26f9f0d5f4259ddbc9a2703abf50b7c8",
+            "title": "New Switch 2 specs show large performance dip in undocked mode - Ars Technica",
+            "url": "https://arstechnica.com/gaming/2025/05/new-switch-2-specs-show-large-performance-dip-in-undocked-mode/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Screenshot-2025-04-02-at-9.17.48 AM-1152x648.png",
+            "source": "Ars Technica",
+            "summary": "Switch 2 Switch Docked\n\n(Quality) Undocked\n\n(Performance) Docked\n\n(Quality) Undocked\n\n(Performance) CPU clock 998 Mhz 1101 Mhz 1020 Mhz 1020 Mhz GPU clock 1007 Mhz 561 Mhz 768 Mhz 460 Mhz Ray-tracing 20 gigarays/sec 10 gigarays/sec N/A N/A Memory bandwidth 102GB/s 68GB/s 25.6GB/s 21.3GB/s\n\nSwitch 2 Switch Total System\n\n(reserved) Total System\n\n(reserved) CPU cores 8 2 4 1 Memory 12GB (LPDDR5X) 3GB 4GB 0.8GB\n\nSwitch 2 Switch CPU architecture 8x ARM Cortex A78C 4x ARM Cortex A57 GPU architecture Ampere Maxwell CUDA Cores 1536 256 Memory interface 128-bit/LPDDR5 64-bit/LPDDR4\n\nGlancing at those numbers, it's easy to pick out a large difference between the system's performance in docked and undocked modes; its GPU clock and memory bandwidth both increase substantially when plugged into a TV. To put the gap in a bit more context, the Switch 2's miniaturized Ampere GPU is rated for 3.072 TFLOPs when docked, versus just 1.71 TFLOPs while undocked. Oddly enough, the Switch 2 CPU clock speed actually increases when the console is played outside the dock."
+        },
+        {
+            "id": "0cad756235de72154090782971eadea2",
+            "title": "Square Enix cancels Kingdom Hearts mobile game - The Verge",
+            "url": "https://www.theverge.com/news/666867/kingdom-hearts-missing-link-canceled",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/KHML02.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "source": "The Verge",
+            "summary": "So it’s a rare and refreshing bit of honesty, especially in an industry as opaque as game development, that Square Enix was willing to name the reason for cancelling Missing-Link and I hope more studios follow suit in the future. The announcement also mentioned that Square was still hard at work on Kingdom Hearts IV perhaps to allay fears that this cancellation might indicate problems for other games in the sprawling Disney video game series. TBS started its own games division in 2023 and with Square Enix, the two companies will work on a new gaming property."
+        }
+    ]
+}

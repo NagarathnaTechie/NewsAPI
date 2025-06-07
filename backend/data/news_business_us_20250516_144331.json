@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 68,
+    "category": "business",
+    "country": "us",
+    "timestamp": "2025-05-16 14:43:17",
+    "articles": [
+        {
+            "id": "4a290fcccbcda44e88266a397e0e179d",
+            "title": "Stock futures slip after S&P 500 posts third consecutive winning day: Live updates - CNBC",
+            "url": "https://www.cnbc.com/2025/05/14/stock-market-today-live-updates.html",
+            "publishedAt": "2025-05-15T09:55:00Z",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108145461-17472353652025-05-14t150459z_1033381729_rc2qheajs8p8_rtrmadp_0_usa-stocks.jpeg?v=1747235400&w=1920&h=1080",
+            "source": "CNBC",
+            "description": "The broad market index ended Wednesday's trading modestly higher, as traders extended the tariff relief rally for a third day.",
+            "content": "Stock futures Thursday after the S&amp;P 500 strung together a third consecutive advance in reaction to the Trump administration and China hammering out a temporary suspension of their tit-for-tat ta… [+2053 chars]",
+            "full_content": "Traders work on the floor at the New York Stock Exchange on May 14, 2025.\n\nThe S&P 500 climbed for a fourth session, adding to this week's rally after the U.S. and China agreed to temporarily slash tariff rates. Treasury yields also fell, providing a tailwind to stocks.\n\nThe broad market index rose 0.41% to end at 5,916.93, while the Dow Jones Industrial Average added 271.69 points, or 0.65%, and closed at 42,322.75. The Nasdaq Composite underperformed, slipping 0.18% and settling at 19,112.32.\n\nConfidence in the immediate outlook for stocks has strengthened in the wake of last weekend's talks between Treasury Secretary Scott Bessent and Chinese officials that appeared to stave off a short-term decline in economic activity and a ratcheting up in inflation.\n\nTech giants are putting up a strong showing week to date. Nvidia and Tesla are both up around 15% each, while Meta Platforms has added nearly 9% during the period. Amazon and Alphabet are up more than 6% and 7%, respectively. The Nasdaq Composite is higher by 6.6% this week, trailed by the S&P 500, ahead 4.5%, and the Dow, up 2.6%.\n\n\"This is a market that has shifted to cautious optimism, i.e., market sentiment has shifted toward measured optimism, as recession fears begin to recede and equity markets demonstrate underlying strength. However, a number of macro and micro risks continue to form a 'wall of worry' that investors must navigate,\" said Joe Cusick, senior vice president and portfolio specialist at Calamos Investments. \"The next phase will hinge on whether the current rally can broaden and sustain through the summer months, or whether it gives way to a healthy consolidation or correction.\"\n\nShares of Foot Locker surged almost 86% after Dick's Sporting Goods said it planned to acquire the retailer for $2.4 billion. UnitedHealth slid nearly 11% after The Wall Street Journal reported, citing people familiar, that the Justice Department is probing the insurer. A UnitedHealth spokesman later told CNBC that the insurer has not been notified by the DOJ of the \"supposed\" investigation reported.\n\nTraders also assessed the state of the economy on Thursday, with an unexpected decline in wholesale prices last month. The producer price index for April declined 0.5% month over month, the Bureau of Labor Statistics said. Economists polled by Dow Jones forecast PPI would increase 0.3% on the month.\n\nRetail sales increased 0.1% in April, which matched consensus estimates, while industrial production numbers for April decreased slightly more than expected.\n\nBond yields slipped after the release of the soft inflation report. The 10-year Treasury yield slipped more than 8 basis points to 4.44%, while the rate on the 2-year note slid 9 basis points to 3.96%."
+        },
+        {
+            "id": "98b8d79b110d1a548832f6cb4a81eda2",
+            "title": "Trump says he doesn't want Apple building products in India: 'I had a little problem with Tim Cook' - CNBC",
+            "url": "https://www.cnbc.com/2025/05/15/trump-told-tim-cook-he-doesnt-want-apple-building-iphones-in-india.html",
+            "publishedAt": "2025-05-15T09:17:28Z",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105780806-1551982871612gettyimages-1128955026.jpeg?v=1747298789&w=1920&h=1080",
+            "source": "CNBC",
+            "description": "Apple has been ramping up production in India with the aim of making around 25% of global iPhones in the country in the next few years.",
+            "content": "U.S. President Donald Trump on Thursday said he told Apple CEO Tim Cook that he doesn't want the tech giant to build its products in India, taking shots at the company's moves to diversify production… [+2426 chars]",
+            "full_content": "Donald Trump speaks alongside Apple CEO Tim Cook (L) during the first meeting of the American Workforce Policy Advisory Board in the State Dining Room of the White House in Washington, DC, March 6, 2019.\n\nU.S. President Donald Trump on Thursday said he told Apple CEO Tim Cook that he doesn't want the tech giant to build its products in India, taking shots at the company's moves to diversify production away from China and urging him to pivot stateside.\n\n\"I had a little problem with Tim Cook yesterday,\" Trump said. \"I said to him, 'my friend, I treated you very good. You're coming here with $500 billion, but now I hear you're building all over India.' I don't want you building in India.\"\n\nTrump was referencing Apple's commitment of a $500 billion investment in the U.S. which was announced in February.\n\nApple has been ramping up production in India with the aim of making around 25% of global iPhones in the country in the next few years, as it looks to reduce reliance on China, where around 90% of its flagship smartphone is currently assembled.\n\n\"I said to Tim, I said, 'Tim look, we treated you really good, we put up with all the plants that you build in China for years, now you got build us. We're not interested in you building in India, India can take care of themselves ... we want you to build here,'\" Trump said."
+        },
+        {
+            "id": "d045208aefbfa25dc24a7c386d51b2bb",
+            "title": "Foot Locker Stock Skyrockets on Report of Buyout by Dick’s Sporting Goods - Barron's",
+            "url": "https://www.barrons.com/articles/foot-locker-stock-dicks-sporting-goods-858885b1",
+            "publishedAt": "2025-05-15T09:05:00Z",
+            "urlToImage": null,
+            "source": "Barron's",
+            "description": null,
+            "content": null,
+            "full_content": null
+        },
+        {
+            "id": "bd9c9e15c3b1ac66fc71a60906e24768",
+            "title": "US issues worldwide restriction on using Huawei AI chips - Nikkei Asia",
+            "url": "https://asia.nikkei.com/Spotlight/Huawei-crackdown/US-issues-worldwide-restriction-on-using-Huawei-AI-chips",
+            "publishedAt": "2025-05-15T07:36:00Z",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F7%2F1%2F5%2F49505173-1-eng-GB%2FGettyImages-1267300894.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
+            "source": "Nikkei.com",
+            "description": "Move comes despite recent Washington-Beijing tariff climbdown",
+            "content": "TAIPEI/PALO ALTO -- The U.S. government is restricting anyone, anywhere in the world, from using Huawei's AI chips, an unprecedented crackdown on the Chinese tech giant despite a recent de-escalation… [+401 chars]",
+            "full_content": "TAIPEI/PALO ALTO -- The U.S. government is restricting anyone, anywhere in the world, from using Huawei's AI chips, an unprecedented crackdown on the Chinese tech giant despite a recent de-escalation of the tariff war between Washington and Beijing.\n\nThe Bureau of Industry and Security (BIS), part of the U.S. Department of Commerce, on Tuesday issued new guidelines on chips for artificial intelligence applications. Among these was an \"alert\" to the tech industry that using advanced chips from China -- namely Huawei's Ascend chips -- without a license is a violation of U.S. export control rules."
+        },
+        {
+            "id": "d478a5b8025453ff34737bb46a6ae9d2",
+            "title": "Asia stocks dip as tech rally cools, Alibaba earnings loom - Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/asia-stocks-dip-as-tech-rally-cools-alibaba-earnings-loom-4046712",
+            "publishedAt": "2025-05-15T03:00:00Z",
+            "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEC030H2_L.jpg",
+            "source": "Investing.com",
+            "description": "Asia stocks dip as tech rally cools, Alibaba earnings loom",
+            "content": "Investing.com-- Most Asian markets retreated on Thursday after a strong, tech-led run-up over the past four sessions now appeared to be cooling, with investors now awaiting key earnings from Chinese … [+3279 chars]",
+            "full_content": "Investing.com-- Most Asian markets retreated on Thursday after a strong, tech-led run-up over the past four sessions now appeared to be cooling, with investors now awaiting key earnings from Chinese … [+3279 chars]"
+        },
+        {
+            "id": "c0ac9729d1737bfd0b55aeb63630f6e2",
+            "title": "Stocks drift, dollar wobbles as markets bide time ahead of US data - Yahoo Finance",
+            "url": "https://finance.yahoo.com/news/stocks-drift-dollar-wobbles-markets-022704118.html",
+            "publishedAt": "2025-05-15T02:29:51Z",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/672ec06a1fad96ed22734c464a1080ed",
+            "source": "Yahoo Entertainment",
+            "description": "Brent futures dropped over $2 to under $64 a barrel as U.S. President Donald Trump, who is on a Middle East tour, said he was getting very close to securing ...",
+            "content": "By Marc Jones\r\nLONDON (Reuters) - Oil tumbled nearly 4% as a potential U.S.-Iran nuclear deal raised the prospect of increased global crude supply on Thursday, while stocks markets took a well-earned… [+4607 chars]",
+            "full_content": "By Chris Prentice and Marc Jones\n\nNEW YORK/LONDON (Reuters) -Oil dropped over 2% on Thursday as a potential U.S.-Iran nuclear deal raised the prospect of increased global crude supply, and Wall Street indexes were mixed in choppy trading.\n\nEuropean shares reversed losses to end higher, with corporate earnings in the spotlight, and gold prices jumped over 1%.\n\nU.S. producer prices fell unexpectedly in April and retail sales were mixed, data showed on Thursday.\n\nGlobal equities rose 0.3%, while emerging market stocks eased.\n\nU.S. Federal Reserve officials feel they need to reconsider the key elements around both jobs and inflation in their current approach to monetary policy, Chair Jerome Powell said during opening remarks at a two-day conference.\n\nRussian President Vladimir Putin spurned a challenge to meet face-to-face with Ukrainian President Volodymyr Zelenskiy in Turkey, dealing a blow to prospects for a peace breakthrough.\n\nBrent futures closed down over 2% as U.S. President Donald Trump, in the midst of a Middle East tour, said he was getting close to securing a deal with Iran - and that Tehran had \"sort of\" agreed to the terms.\n\nAli Shamkhani, an adviser to Iran’s Supreme Leader Ayatollah Ali Khamenei, had said in an NBC interview that the country would commit to never making nuclear weapons and get rid of its stockpiles of highly-enriched uranium.\n\nBNP Paribas economist Paul Hollingsworth said the drop in oil compounded the deflationary pressures already in play in places like Europe where U.S. tariff worries are lingering.\n\n\"Everyone is finding it difficult to navigate the volatility in the announcements,\" Hollingsworth said.\n\nIn Europe, the continent-wide STOXX 600 index rose 0.6%, recovering from earlier losses that were led by the energy sector. Most major regional indexes were higher. [.EU]\n\nApril jobless figures were steady.\n\nOn Wall Street, the Dow Jones Industrial Average rose 271.69 points, or 0.65%, to 42,322.75, the S&P 500 rose 24.35 points, or 0.41%, to 5,916.93 and the Nasdaq Composite fell 34.49 points, or 0.18%, to 19,112.32.\n\nRetailer Walmart posted solid first-quarter sales numbers, but it became the latest to warn about the high costs of Trump's trade tariffs and did not provide second-quarter profit guidance due to the uncertainty.\n\n\"We may be entering a period of more frequent, and potentially more persistent, supply shocks,\" the Fed's Powell said.\n\nBritain's economy grew by a quicker-than-expected 0.2% in March, data showed. Industrial production in the 20-nation euro zone also rose far more than predicted although overall first-quarter GDP growth disappointed."
+        },
+        {
+            "id": "375cac4a28e45589b989b42e3920c1ca",
+            "title": "Exclusive | UnitedHealth Group Is Under Criminal Investigation for Possible Medicare Fraud - WSJ",
+            "url": "https://www.wsj.com/us-news/unitedhealth-medicare-fraud-investigation-df80667f",
+            "publishedAt": "2025-05-15T02:29:00Z",
+            "urlToImage": null,
+            "source": "The Wall Street Journal",
+            "description": null,
+            "content": null,
+            "full_content": null
+        },
+        {
+            "id": "cb794862f760e03d9f3a1a08cd6c3178",
+            "title": "Tariffs: Jaguar Land Rover says it has no plans to build cars in the US - BBC",
+            "url": "https://www.bbc.com/news/articles/ce81x8ke8pgo",
+            "publishedAt": "2025-05-15T01:34:52Z",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6f05/live/caa29d40-311e-11f0-9b54-3b9a7f6d7e44.jpg",
+            "source": "BBC News",
+            "description": "The comment came after the company's boss refused to rule out opening production plants in America.",
+            "content": "UK-based carmaker Jaguar Land Rover has said it does not intend to produce vehicles in the US, as President Donald Trump's tariffs impact the motor industry.\r\n\"Following articles based on comments ma… [+1828 chars]",
+            "full_content": "Jaguar says it has no plans to build cars in the US\n\n1 day ago Share Save Peter Hoskins Business reporter Share Save\n\nReuters"
+        }
+    ]
+}

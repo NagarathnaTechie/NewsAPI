@@ -1,0 +1,88 @@
+{
+    "source": "data/news_science_us_20250516_143225.json",
+    "original_category": "science",
+    "original_country": "us",
+    "timestamp": "2025-05-16 14:32:25",
+    "articles": [
+        {
+            "id": "0f1bf35f6c07e74872778fd0eb9453e5",
+            "title": "Webb Spots Mysterious Lightshow on Jupiter That Baffles Scientists - SciTechDaily",
+            "url": "https://scitechdaily.com/webb-spots-mysterious-lightshow-on-jupiter-that-baffles-scientists/",
+            "urlToImage": "https://scitechdaily.com/images/Pullout-of-Aurora-Observations-on-Jupiter-Webb-NIRCam-Image-scaled.jpg",
+            "source": "SciTechDaily",
+            "summary": "What Comes Next for Jovian Auroras\n\nThe team now plans to study this discrepancy between the Hubble and Webb data and to explore the wider implications for Jupiter’s atmosphere and space environment. We still don’t understand how this happens.”\n\nThese observations of Jupiter’s auroras at a wavelength of 3.36 microns (F335M) were captured with Webb’s NIRCam (Near-Infrared Camera) on December 25, 2023. They also intend to follow up this research with more Webb observations, which they can compare with data from NASA’s Juno spacecraft to better explore the cause of the enigmatic bright emission. NASA’s James Webb Space Telescope has captured new details of the auroras on our solar system’s largest planet. Led by Jonathan Nichols at the University of Leicester in the UK, the research team discovered rapidly changing features in Jupiter’s auroras, revealing a level of activity that’s far more dynamic than scientists expected. Thanks to Webb’s incredible sensitivity, astronomers are now able to study these lights in greater detail to better understand Jupiter’s powerful magnetic environment. When these and other solar particles are swept up by Jupiter’s magnetic field, they’re accelerated to extreme speeds and collide with the planet’s atmosphere, creating bursts of glowing light. These glowing light shows are not only massive but also hundreds of times brighter than Earth’s auroras."
+        },
+        {
+            "id": "e1a96427bc0ef3130ad0bd42a103bbaf",
+            "title": "Zombie star baffles astronomers because it \"should not exist\" - Earth.com",
+            "url": "https://www.earth.com/news/zombie-star-baffles-astronomers-because-it-should-not-exist-askap-j1839-0756/",
+            "urlToImage": "https://cff2.earth.com/uploads/2025/01/14202951/zombie-star_ASKAP-J1839-0756_should-not-exist_1m.jpg",
+            "source": "Earth.com",
+            "summary": "Astronomers are keeping an eye on any other signals that might echo ASKAP J1839-0756. When astronomers spot signals that disrupt established thinking, it sparks new approaches to understanding how the universe evolves. New technologies and bigger telescopes may reveal more slow-spinning neutron stars that we never realized existed. Some scientists believe these strange signals could come from objects that began life as typical, fast-spinning stars but took a different path as they aged. Researchers were intrigued by the odd timing of its signals, which suggested there might be more to this star than simple cosmic flashes. This finding tests the limits of our knowledge about extreme objects in the cosmos. It also shows that bold assumptions about star lifecycles can be turned upside down by a single outlier. This discovery may ignite more wide-field surveys to hunt for faint signals lurking between well-known radio pulses. Even a small shift in field alignment can yield significant differences in how and when a star pulses. Others wonder whether there are more hidden sources that orbit in deep space, pulsing too slowly for our current methods to detect. That pattern is reminiscent of a lighthouse beam, but the timing is on a scale astronomers rarely see."
+        },
+        {
+            "id": "82632339086dc9a72aa95f86ecd29663",
+            "title": "New species of 'tiger swallowtail' butterfly discovered in the U.S. had gone unnoticed by scientists - Earth.com",
+            "url": "https://www.earth.com/news/new-species-of-tiger-swallowtail-butterfly-discovered-in-the-u-s-had-gone-unnoticed-by-scientists/",
+            "urlToImage": "https://cff2.earth.com/uploads/2025/05/13023238/new-tiger-butterfly-species-discovered-us.jpg",
+            "source": "Earth.com",
+            "summary": "Future of the Tiger swallowtail butterfly\n\nQuestions remain about what triggered the emergence of Papilio solstitius as a separate species and how far it might expand its distribution. By clearly marking the features that define it, specialists open new discussions on how similar species might have emerged in tandem or split off over time. Insect watchers are now encouraged to record when and where they see midseason tiger swallowtails, because such sightings could fine-tune scientific understanding of this butterfly’s behavior. Some entomologists hope that the formal naming of this butterfly will help pinpoint trends in temperature and habitat that might be guiding its spread. The authors are confident that this novel species will energize further study. “It is our hope that recognizing and defining the taxonomic identity of this unique evolutionary lineage provides a staging point in the fertile grounds for future research,” one of them said. Butterfly species of interest\n\n“The recognition and delimitation of Papilio glaucus and Papilio canadensis as a classic sibling species pair led to three decades of study in speciation, host plant adaptation, hybridization, and molecular evolution,” explained the researchers. More fieldwork could clarify whether there are additional undiscovered pockets of “late-flight” tiger swallowtails or if these insects mix with other populations in regions farther south."
+        },
+        {
+            "id": "ccc43ac4f0806139e9bceb6916209582",
+            "title": "Here's why the private Athena lunar lander toppled over on the moon - Space",
+            "url": "https://www.space.com/astronomy/moon/heres-why-the-private-athena-lunar-lander-toppled-over-on-the-moon",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/j7QwcPF5zyknJpTRwR8XrB.jpg",
+            "source": "Space.com",
+            "summary": "Intuitive Machines' Athena moon lander as photographed by NASA's Lunar Reconnaissance Orbiter on March 10, 2025. \"We've expanded onboard terrain crater database for enhanced navigation across the surface of the moon.\" Intuitive Machines is working hard to ensure that its next moon lander — the vehicle that will launch on the IM-3 mission in 2026 — can stay on its feet. Athena, the second lunar lander built and operated by Houston company Intuitive Machines, fell onto its side shortly after touching down near the lunar south pole on March 6. Athena carried a suite of NASA science instruments and several other payloads, including Intuitive Machines' hopping spacecraft \"Grace\" and the MAPP rover, from the Colorado company Lunar Outpost. The team is also feeding the detailed south pole imagery captured during IM-2 into machine-learning algorithms to improve future missions' navigation and crater-tracking abilities."
+        },
+        {
+            "id": "91d2cf9a1d33bddfc347cb63733c62ad",
+            "title": "Voyager 1 revives backup thrusters before command pause - Phys.org",
+            "url": "https://phys.org/news/2025-05-voyager-revives-backup-thrusters.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/voyager-1-revives-back.jpg",
+            "source": "Phys.Org",
+            "summary": "The team wanted to make sure the long-dormant thrusters would be available when the dish is back online briefly in August, by which time the thrusters currently in use on Voyager 1 might be completely clogged. \"I think at that time, the team was OK with accepting that the primary roll thrusters didn't work, because they had a perfectly good backup,\" said Kareem Badaruddin, Voyager mission manager at JPL, which manages the mission for NASA. If, during that time, the spacecraft's star tracker drifted too far from the guide star, the long-dormant roll thrusters would automatically fire (thanks to the spacecraft's programming). It was yet another miracle save for Voyager.\" But on Voyager 1, the primary roll thrusters stopped working in 2004 after losing power in two small internal heaters. But without the ability to control the spacecraft's roll motion, a variety of issues would arise that might threaten the mission, so the engineering team decided to reexamine the 2004 thruster failure. If the test had failed, Voyager might already have been in danger. Because of Voyager's distance, the radio signal takes over 23 hours to travel from the spacecraft to Earth, meaning everything the team saw happening had occurred almost a day earlier."
+        },
+        {
+            "id": "3c708262b682b721859a331883e0bbb8",
+            "title": "Blackouts Around The World As X Class Solar Flare Hits Earth - IFLScience",
+            "url": "https://www.iflscience.com/blackouts-around-the-world-as-x-class-solar-flare-hits-earth-79207",
+            "urlToImage": "https://assets.iflscience.com/assets/articleNo/79207/aImg/83875/may-13-solar-flare-meta.png",
+            "source": "IFLScience",
+            "summary": "\"Flares of this magnitude are not frequent,\" they note, adding \"users of high frequency (HF) radio signals may experience temporary degradation or complete loss of signal on much of the sunlit side of Earth.\" When a strong enough solar flare occurs, ionization is produced in the lower, more dense layers of the ionosphere (the D-layer), and radio waves that interact with electrons in layers lose energy due to the more frequent collisions that occur in the higher density environment of the D-layer. However, an M-class solar flare occurred shortly afterwards, and part of this could collide with Earth, potentially bringing aurora with it. The X2.7 flare, released at 08:25 AM UTC on May 14, is not expected to have produced a CME that will collide with Earth, according to the NOAA Space Weather Prediction Center. \"C-class flares are too weak to noticeably affect Earth."
+        },
+        {
+            "id": "2c6b638f46e7587ba9a5aeb4cf6faf1b",
+            "title": "'Hot Schrödinger's cat' states created in the lab proving that quantum effects don't require extreme cold - Earth.com",
+            "url": "https://www.earth.com/news/physicists-create-schrodingers-cat-with-stable-quantum-state-at-higher-temperature/",
+            "urlToImage": "https://cff2.earth.com/uploads/2025/05/14150624/hot-chrodingers-cat-state_quantum-effects-without-extreme-cold_1m.jpg",
+            "source": "Earth.com",
+            "summary": "The idea that quantum states can survive at higher temperatures, in less demanding thermal environments, could also reshape how students and smaller research groups approach quantum experiments. Every success story in warmer conditions adds more confidence that a broader range of environments can still reveal weird quantum phenomena. It might also lead to new methods of integrating quantum circuitry into everyday technologies without the hassle of bulky cooling machines. The result shows that quantum superposition might persist under conditions once thought too hot for such effects. Additional work is needed to understand how large these “hot” quantum states can get. These new experiments highlight that quantum interference can survive at around 1.8 Kelvin, which is much warmer than the ultra-cold temperatures typically used in similar tests. Their result challenges the long-held assumption that extreme cold is the only way to maintain fragile quantum states. Without the high cost and complexity of ultra-low-temperature systems, more institutions may be able to replicate and build on these findings. This shift could decentralize access to quantum research, leading to faster innovation and a wider talent pool that contributes to the field. The outcome hints that temperature alone may not be the biggest obstacle, as long as the system’s interactions are well-designed."
+        },
+        {
+            "id": "95767472ab99040e8fbd8a722254d698",
+            "title": "Humans give off visible light that vanishes when we die, new study shows - Boy Genius Report",
+            "url": "https://bgr.com/science/humans-give-off-visible-light-that-vanishes-when-we-die-new-study-shows/",
+            "urlToImage": "https://bgr.com/wp-content/uploads/2023/07/AdobeStock_118631093.jpeg?quality=82&strip=all",
+            "source": "BGR",
+            "summary": "The idea that humans glow may seem silly, but this research suggests it’s a measurable biological fact. Injured parts glowed more brightly than healthy ones, which the researchers say is clear evidence that living stress responses drive the emission. The source of the glow is believed to be byproducts of metabolism that sometimes create high-energy reactions capable of releasing light. According to a study published with their findings, the researchers observed a dramatic decrease in photon emissions after death."
+        },
+        {
+            "id": "ee9dcb25136a817b1d7f057a110f1199",
+            "title": "Beyond qubits: Meet the qutrit (and ququart) - Ars Technica",
+            "url": "https://arstechnica.com/science/2025/05/beyond-qubits-meet-the-qutrit-and-ququart/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2195702706-1152x648.jpg",
+            "source": "Ars Technica",
+            "summary": "Right now, all the major quantum computing efforts are hardware-constrained—we can't build enough qubits and link them together for error correction to let us do useful calculations. Still, there's a strong case to be made that moving beyond qubits could be valuable: it lets us do a lot more with less hardware. Making ququarts\n\nMore complex qudits haven't been as popular with the people who are developing quantum computing hardware for a number of reasons; one of them is simply that some hardware only has access to two possible states."
+        },
+        {
+            "id": "e37a131668972df2ee70c718d4abdc6f",
+            "title": "What paleontologists learned from fossils of a 3-eyed predator that lived 500 million years ago - ABC News",
+            "url": "https://abcnews.go.com/US/paleontologists-learned-fossils-3-eyed-predator-lived-500/story?id\\\\u003d121792677",
+            "urlToImage": null,
+            "source": "ABC News",
+            "summary": "Content too short to summarize"
+        }
+    ]
+}

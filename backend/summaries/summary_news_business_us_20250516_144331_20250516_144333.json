@@ -1,0 +1,72 @@
+{
+    "source": "data/news_business_us_20250516_144331.json",
+    "original_category": "business",
+    "original_country": "us",
+    "timestamp": "2025-05-16 14:43:31",
+    "articles": [
+        {
+            "id": "4a290fcccbcda44e88266a397e0e179d",
+            "title": "Stock futures slip after S&P 500 posts third consecutive winning day: Live updates - CNBC",
+            "url": "https://www.cnbc.com/2025/05/14/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108145461-17472353652025-05-14t150459z_1033381729_rc2qheajs8p8_rtrmadp_0_usa-stocks.jpeg?v=1747235400&w=1920&h=1080",
+            "source": "CNBC",
+            "summary": "The Nasdaq Composite is higher by 6.6% this week, trailed by the S&P 500, ahead 4.5%, and the Dow, up 2.6%. The 10-year Treasury yield slipped more than 8 basis points to 4.44%, while the rate on the 2-year note slid 9 basis points to 3.96%. Retail sales increased 0.1% in April, which matched consensus estimates, while industrial production numbers for April decreased slightly more than expected. Economists polled by Dow Jones forecast PPI would increase 0.3% on the month."
+        },
+        {
+            "id": "98b8d79b110d1a548832f6cb4a81eda2",
+            "title": "Trump says he doesn't want Apple building products in India: 'I had a little problem with Tim Cook' - CNBC",
+            "url": "https://www.cnbc.com/2025/05/15/trump-told-tim-cook-he-doesnt-want-apple-building-iphones-in-india.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105780806-1551982871612gettyimages-1128955026.jpeg?v=1747298789&w=1920&h=1080",
+            "source": "CNBC",
+            "summary": "We're not interested in you building in India, India can take care of themselves ... we want you to build here,'\" Trump said. U.S. President Donald Trump on Thursday said he told Apple CEO Tim Cook that he doesn't want the tech giant to build its products in India, taking shots at the company's moves to diversify production away from China and urging him to pivot stateside. \"I said to Tim, I said, 'Tim look, we treated you really good, we put up with all the plants that you build in China for years, now you got build us."
+        },
+        {
+            "id": "d045208aefbfa25dc24a7c386d51b2bb",
+            "title": "Foot Locker Stock Skyrockets on Report of Buyout by Dick’s Sporting Goods - Barron's",
+            "url": "https://www.barrons.com/articles/foot-locker-stock-dicks-sporting-goods-858885b1",
+            "urlToImage": null,
+            "source": "Barron's",
+            "summary": "Content too short to summarize"
+        },
+        {
+            "id": "bd9c9e15c3b1ac66fc71a60906e24768",
+            "title": "US issues worldwide restriction on using Huawei AI chips - Nikkei Asia",
+            "url": "https://asia.nikkei.com/Spotlight/Huawei-crackdown/US-issues-worldwide-restriction-on-using-Huawei-AI-chips",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F7%2F1%2F5%2F49505173-1-eng-GB%2FGettyImages-1267300894.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
+            "source": "Nikkei.com",
+            "summary": "Among these was an \"alert\" to the tech industry that using advanced chips from China -- namely Huawei's Ascend chips -- without a license is a violation of U.S. export control rules. TAIPEI/PALO ALTO -- The U.S. government is restricting anyone, anywhere in the world, from using Huawei's AI chips, an unprecedented crackdown on the Chinese tech giant despite a recent de-escalation of the tariff war between Washington and Beijing. The Bureau of Industry and Security (BIS), part of the U.S. Department of Commerce, on Tuesday issued new guidelines on chips for artificial intelligence applications."
+        },
+        {
+            "id": "d478a5b8025453ff34737bb46a6ae9d2",
+            "title": "Asia stocks dip as tech rally cools, Alibaba earnings loom - Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/asia-stocks-dip-as-tech-rally-cools-alibaba-earnings-loom-4046712",
+            "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEC030H2_L.jpg",
+            "source": "Investing.com",
+            "summary": "Investing.com-- Most Asian markets retreated on Thursday after a strong, tech-led run-up over the past four sessions now appeared to be cooling, with investors now awaiting key earnings from Chinese … [+3279 chars]"
+        },
+        {
+            "id": "c0ac9729d1737bfd0b55aeb63630f6e2",
+            "title": "Stocks drift, dollar wobbles as markets bide time ahead of US data - Yahoo Finance",
+            "url": "https://finance.yahoo.com/news/stocks-drift-dollar-wobbles-markets-022704118.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/672ec06a1fad96ed22734c464a1080ed",
+            "source": "Yahoo Entertainment",
+            "summary": "Industrial production in the 20-nation euro zone also rose far more than predicted although overall first-quarter GDP growth disappointed. In Europe, the continent-wide STOXX 600 index rose 0.6%, recovering from earlier losses that were led by the energy sector. By Chris Prentice and Marc Jones\n\nNEW YORK/LONDON (Reuters) -Oil dropped over 2% on Thursday as a potential U.S.-Iran nuclear deal raised the prospect of increased global crude supply, and Wall Street indexes were mixed in choppy trading."
+        },
+        {
+            "id": "375cac4a28e45589b989b42e3920c1ca",
+            "title": "Exclusive | UnitedHealth Group Is Under Criminal Investigation for Possible Medicare Fraud - WSJ",
+            "url": "https://www.wsj.com/us-news/unitedhealth-medicare-fraud-investigation-df80667f",
+            "urlToImage": null,
+            "source": "The Wall Street Journal",
+            "summary": "Content too short to summarize"
+        },
+        {
+            "id": "cb794862f760e03d9f3a1a08cd6c3178",
+            "title": "Tariffs: Jaguar Land Rover says it has no plans to build cars in the US - BBC",
+            "url": "https://www.bbc.com/news/articles/ce81x8ke8pgo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6f05/live/caa29d40-311e-11f0-9b54-3b9a7f6d7e44.jpg",
+            "source": "BBC News",
+            "summary": "Jaguar says it has no plans to build cars in the US\n\n1 day ago Share Save Peter Hoskins Business reporter Share Save\n\nReuters"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "source": "data/news_sports_us_20250519_143142.json",
+    "original_category": "sports",
+    "original_country": "us",
+    "timestamp": "2025-05-19 14:31:42",
+    "articles": [
+        {
+            "id": "3ff4e5de1c6533f80ef7d000a3ffc3b6",
+            "title": "Scottie Scheffler bulldozes Quail Hollow to grab PGA Championship lead - The Washington Post",
+            "url": "https://www.washingtonpost.com/sports/2025/05/17/scottie-scheffler-pga-championship-leader/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M5FUP24LKUEPCJ4BUOJPEM6JE4.jpg&w=1440",
+            "source": "The Washington Post",
+            "summary": "Rory McIlroy gathered no momentum after making the cut on the number and is tied for 49th at 2 over, 13 shots behind Scheffler. This golf course is tricky, and one shot is nothing.”\n\nNobody could attest to Quail Hollow’s treachery, particularly in the final three-hole stretch, more than DeChambeau. His drive on the 14th hole may end up the shot of the tournament, a 3-wood drawing into the breeze that landed on the apron, bounded on to the green and rolled to inside a yard. Behind the 11th green, McIlroy’s second of the day, one fan, perhaps after one too many Wicked Weed IPAs, shouted upon seeing McIlroy approach the ropes, “Scottie Scheffler!”\n\n“I get mistaken for a lot of people,” McIlroy said, chuckling along with the gallery. After he made a second straight birdie on No. Then he pulled a 9-iron on the 187-yard 17th hole and struck it “exactly how I wanted to,” he said. DeChambeau, ever golf’s main character, led alone at 8 under after consecutive birdies on Nos. He missed the first, which Scheffler said was set up with his best shot of the day — a 198-yard 7-iron off a sidehill lie with wind whipping straight across. Rahm, the titan who disappeared from major contention after defecting for LIV Golf at the outset of 2024, tied for the lead at one point and finished at 6 under, five back of Scheffler and tied for fifth. Scot-tie!”\n\n“You could hit two good shots and not end up with birdie chances,” Scheffler said. His potential run at a Grand Slam was all but snuffed out. Advertisement\n\n“That’s why golf is the worst four-letter word in the world,” DeChambeau said. He finished tied for 45th at last year’s Masters, missed the cut at the PGA and withdrew from the U.S. Open with a foot injury."
+        },
+        {
+            "id": "d7adc539d8b49349ec3016457c52c6c5",
+            "title": "Five thoughts from Stars-Jets Game 6: Thomas Harley’s OT goal sends Dallas to next round - Dallas News",
+            "url": "https://www.dallasnews.com/sports/stars/2025/05/17/five-thoughts-from-stars-jets-game-6-dallas-advances-after-winning-ot-thriller/",
+            "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/TOSQFPVRBNBLDHKEKJQ3WNFSSQ.jpg?auth=10083a5fa82d476e66e14a65fb11219c3cef17f6dc238d48937ac6514fea1c4d&height=630&width=1200&smart=true&quality=80",
+            "source": "The Dallas Morning News",
+            "summary": "The Stars outlasted the Winnipeg Jets in Game 6 on home ice, winning 2-1 in overtime to secure the series… [+4807 chars] For the third consecutive year, the Dallas Stars are going to the Western Conference finals."
+        },
+        {
+            "id": "15a2f7ea9eb1a345ebf230ecd26e8d16",
+            "title": "Live lineup updates, results from 2025 All-Star Race Weekend - NASCAR.com",
+            "url": "https://www.nascar.com/news-media/2025/05/17/live-lineup-updates-results-from-2025-all-star-race-weekend/",
+            "urlToImage": "https://www.nascar.com/wp-content/uploads/sites/7/2025/05/17/2025-may17-all-star-wilkesboro-heat-green-672x372.jpg",
+            "source": "NASCAR",
+            "summary": "5 Chevrolet Kyle Larson Heat Race No. 21 Ford Josh Berry Heat Race No. 77 Chevrolet Carson Hocevar All-Star Open winner 22 No. 42 Toyota John H. Nemechek All-Star Open second place 23 No. 51 Ford Harrison Burton Heat Race No. 2 eighth place 17 No. 17 Ford Chris Buescher 6 10 No. 6 Ford Brad Keselowski Fastest in qualifying 2 No. 19 Toyota Chase Briscoe 8 9 No. 9 Chevrolet Chase Elliott 4 6 No. 48 Chevrolet Alex Bowman 6 7 No. 7 Chevrolet Justin Haley 15 9 No. 45 Toyota Tyler Reddick 8 4 No. 2 Ford Austin Cindric 9 7 No. 11 Toyota Denny Hamlin\n\nAll-Star Open Results\n\nFINISH START CAR DRIVER 1 2 No. 22 Ford Joey Logano 3 5 No. 99 Chevrolet Daniel Suárez 7 2 No. 66 Ford Chad Finchum\n\nAll-Star Race Lineup: (Sun., 8 p.m. 10 Chevrolet Ty Dillon 4 12 No. 20 Toyota Christopher Bell 2 3 No. 4 Ford Noah Gragson Fan Vote winner FINISH START CAR DRIVER 1 1 No."
+        },
+        {
+            "id": "d0c30d3027797fe59b3d0913aab0d62b",
+            "title": "Jets' Mark Scheifele Plays Game 6 vs. Stars After Father's Death, Scores Opening Goal - Bleacher Report",
+            "url": "https://bleacherreport.com/articles/25197214-jets-mark-scheifele-plays-game-6-vs-stars-after-fathers-death-scores-opening-goal",
+            "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2215336553_large_image_0.jpg?w=3800&h=2000",
+            "source": "Bleacher Report",
+            "summary": "The Winnipeg Jets had star center Mark Scheifele in the lineup for Game 6 of the team's second-round series against the Dallas Stars following the death of his father, and he scored the game-opening … [+798 chars]"
+        },
+        {
+            "id": "415f6d64b8226705912e8f8ed7854b71",
+            "title": "2025 PGA Championship picks, odds: Jon Rahm, Bryson DeChambeau among 6 who can catch leader Scottie Scheffler - CBS Sports",
+            "url": "https://www.cbssports.com/golf/news/2025-pga-championship-picks-odds-jon-rahm-bryson-dechambeau-among-6-who-can-catch-leader-scottie-scheffler/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/05/18/412c95e0-b2f6-4ad6-91fa-a621950c2a8b/thumbnail/1200x675/cf719efd9c727b7e6ddab476b65a701d/jon-rahm-stare-pga-r3-g.png",
+            "source": "CBS Sports",
+            "summary": "Fans and players know, when he makes his move … [+10844 chars] There is meaning when he crosses the finish line and finds the winner's circle. There is weight to his name."
+        },
+        {
+            "id": "5c0bd019441fd9ed2e74b2f0fc33183c",
+            "title": "Dodgers Notes: Kershaw, Edman, Hernandez, Ohtani - MLB Trade Rumors",
+            "url": "https://www.mlbtraderumors.com/2025/05/dodgers-notes-kershaw-edman-hernandez-ohtani.html",
+            "urlToImage": "https://cdn.mlbtraderumors.com/files/2025/05/USATSI_25990607-1024x682.jpg",
+            "source": "MLB Trade Rumors",
+            "summary": "One other motivator for Kershaw could be that neither of his World Series rings have come with the full experience: the Dodgers couldn’t hold a parade in 2020 due to the COVID-19 pandemic, and Kershaw was not on the field with his teammates for their championship last year due to injuries. Kershaw confirmed that his inability to participate down the stretch last year was a source of frustration. After winning a second World Series championship with the Dodgers last year and being forced to end his season in August due to injuries that eventually required surgery on his left plantar plate and to repair a torn left meniscus over the winter. The 257 1/3 innings he’d still need in order to join the 3,000 innings club isn’t a goal he can reach this season, but after pitching 258 innings total in 2022 and ’23 it’s not hard to imagine him reaching that milestone before his 40th birthday should he decide to continue his career for that long."
+        },
+        {
+            "id": "705d802043cc0293ef99a61a418aace7",
+            "title": "2025 PGA Championship TV schedule, coverage, channel, where to watch online, golf live stream, tee times - CBS Sports",
+            "url": "https://www.cbssports.com/golf/news/2025-pga-championship-tv-schedule-coverage-channel-where-to-watch-online-golf-live-stream-tee-times/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/05/13/a6db7fe0-ad09-4963-9268-f6733c6a7f85/thumbnail/1200x675/ee7c68ceac6e6d97388a59260e304afd/pga-championship-flag-2025-g.png",
+            "source": "CBS Sports",
+            "summary": "The second major of the 2025 golf season enters the weekend with plenty of players looking to set a tone for the remainder of the campaign on Moving Day in Charlotte. The 2025 PGA Championship contin… [+3471 chars]"
+        },
+        {
+            "id": "a920b05531ceecd253aa56a8469dc78f",
+            "title": "Caitlin Clark says no ‘malicious’ intent behind flagrant foul on Angel Reese: ‘Not the type of player I am’ - New York Post",
+            "url": "https://nypost.com/2025/05/17/sports/caitlin-clark-no-malicious-intent-on-angel-reese-foul/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/newspress-collage-p7l7ohc5m-1747527501134.jpg?quality=75&strip=all&1747513126&w=1024",
+            "source": "New York Post",
+            "summary": "That’s not the type of player I am.”\n\n3 Angel Reese takes a hard foul from Caitlin Clark in the second half of the Fever’s 93-58 home-opening win over the Sky on May 17, 2025. When Clark was asked about the flagrant foul she committed against Reese during the Fever’s 93-58 blowout win over the Sky in Saturday’s season-opener, the 23-year-old insisted that it was a smart play. 3 Caitlin Clark celebrates in the second half during the Fever’s blowout win over the Sky. Getty Images\n\nClark finished the game with a 20-points, 10 rebounds and 10 assists as the Fever won in a blowout. But … I’ve been in these moments before, and I’m ready for them.”\n\nThe Fever next play the Dream on Tuesday night. Earlier this week, Clark opened up to ESPN about how she feels more adjusted to the WNBA in her second season compared to last year’s opener when she was a rookie coming off a long season at the University of Iowa."
+        },
+        {
+            "id": "0a42cba64022685026c60a6abb9bb935",
+            "title": "The reason Bill Belichick says Jordon Hudson was copied on all North Carolina football emails - New York Post",
+            "url": "https://nypost.com/2025/05/17/sports/bill-belichick-reveals-why-jordon-hudson-was-copied-on-all-unc-emails/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/newspress-collage-phsk2i7av-1747523830660.jpg?quality=75&strip=all&1747509447&w=1024",
+            "source": "New York Post",
+            "summary": "That’s the bottom line.”\n\nBill Belichick claimed that UNC being featured on “Hard Knocks”\n\nwas not a “good fit.” ZUMAPRESS.com\n\nBelichick’s comments come just days after he claimed that Hudson had nothing to do with UNC’s football team during a brief interview on ESPN’s “SportsCenter.”\n\n“That’s really off to the side, it’s a personal relationship. I mean, there was nobody to help me sort it out, so I was asking her to do it.”\n\nBill Belichick and Jordon Hudson on the red carpet before Super Bowl LIX NFL Honors at Saenger Theatre. She doesn’t have anything to do with UNC football,” Belichick said during the broadcast on Tuesday. Belichick said that since there was no one running the sports information department for the team, he requested Hudson, 24, to be copied on the emails."
+        },
+        {
+            "id": "22ff38912f268c64482bd2ffb5d2eebb",
+            "title": "PGA Championship 2025: Final-round tee times, pairings at Quail Hollow - NBC Sports",
+            "url": "https://www.nbcsports.com/golf/news/pga-championship-2025-final-round-tee-times-pairings-at-quail-hollow",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/a9f4015/2147483647/strip/true/crop/5400x3038+0+281/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb2%2F2e%2F274b6d344ea6a2487a7979ca7eb4%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2214721843",
+            "source": "NBCSports.com",
+            "summary": "Here’s a look at the full tee times and pairings for the final round in Charlotte, North Carolina (Click here for how to watch). Scottie Scheffler leads by three shots thanks to a brilliant finish to Round 3, where he played his final five holes in 5 under for a 65. The 107th PGA Championship concludes Sunday at Quail Hollow Club."
+        }
+    ]
+}

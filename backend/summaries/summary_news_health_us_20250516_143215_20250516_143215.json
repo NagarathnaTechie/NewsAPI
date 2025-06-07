@@ -1,0 +1,64 @@
+{
+    "source": "data/news_health_us_20250516_143215.json",
+    "original_category": "health",
+    "original_country": "us",
+    "timestamp": "2025-05-16 14:32:15",
+    "articles": [
+        {
+            "id": "802d659a41e2b417bfed8116706a260b",
+            "title": "'Harmless' drink can cause kidney diseases and anxiety disorders in young people - Times of India",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/harmless-drink-can-cause-kidney-diseases-and-anxiety-disorders-in-young-people/articleshow/121096336.cms",
+            "urlToImage": null,
+            "source": "The Times of India",
+            "summary": "The growing body of evidence suggests that energy drinks pose significant risks not only to the mental and physical health of children and adolescents but also to their behavior and academic performance. Urgent action is needed to mitigate these risks and protect young individuals from the harmful effects of these products.Healthier alternatives to energy drinks include herbal teas, natural fruit juices, coconut water, and just plain water. These options provide hydration, essential nutrients, and a moderate energy boost without the negative effects of excessive caffeine or sugar. Sugar-sweetened drinks related to chronic kidney disease, says study\n\nA widely consumed non-alcoholic beverage has gained immense popularity among millions of young individuals, but recent studies have highlighted alarming links between energy drinks and multiple health issues, including heightened risks for heart and kidney complications, as well as anxiety disorders. This detrimental effect is exacerbated when energy drinks are consumed in place of calcium-rich alternatives like milk. Additionally, foods like dark chocolate, green tea, and goji berries can also offer a natural energy boost.Incorporating regular physical activity and getting enough sleep are also crucial for maintaining steady energy levels throughout the day. Blueberries and apples provide natural antioxidants and help combat inflammation while keeping potassium and sodium levels in check.Eating a balanced diet, hydration, controlling blood pressure and blood sugar, limiting smoking and alcohol, and maintaining a healthy weight are crucial for kidney health."
+        },
+        {
+            "id": "5e7c12b26c921891f7a2b2c29522418f",
+            "title": "Mosquito-borne killer disease threatens blackbirds - BBC",
+            "url": "https://www.bbc.com/news/articles/cj3x6v05ly6o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f092/live/8e053ef0-266b-11f0-af27-090e238d1774.jpg",
+            "source": "BBC News",
+            "summary": "The virus has been linked to mass die-offs of blackbirds elsewhere in Europe, though that doesn't seem to be the case in Britain. Usutu virus was first detected more than half a century ago around southern Africa's Usutu River It has since spread around the world, reaching Europe three decades ago, and was picked up for the first time in the UK in 2020 Blackbirds are particularly susceptible to the virus, which can also infect horses and, from time to time, humans. New data shows Usutu has spread across much of southern England in five years, and has been linked to declines in some blackbird populations. Diseases such as Usutu are a growing threat to wild birds, amid a host of other pressures, including habitat loss, climate change and pesticide use. And the blackbird remains one of the commonest garden birds with numbers holding steady in many parts of the country, especially in rural areas, and in the north."
+        },
+        {
+            "id": "e0d02aaeb99210b03a616820366a540c",
+            "title": "Measles Case Confirmed in Williamsburg - COLlive",
+            "url": "https://collive.com/measles-case-confirmed-in-williamsburg/",
+            "urlToImage": "https://collive.com/wp-content/uploads/2025/05/nf_5008_169804-658x439-1.jpg",
+            "source": "COLlive - Chabad News",
+            "summary": "Full Story\n\nBy COLlive reporter\n\nA confirmed case of measles has been reported in the Williamsburg neighborhood, raising serious concern among local health professionals about the potential for a broader outbreak, particularly within the frum community. “Nobody wants their child to get measles,” warned local Crown Heights physician Dr. Eli Rosen of the Crown Heights ODA, in a message to patients. Measles is a highly contagious viral disease that can lead to severe health complications, especially in young children."
+        },
+        {
+            "id": "3136471c87320f39ac7b826b5003f6cd",
+            "title": "$20 Pill vs $20,000 Surgery? Popular Diabetes Drug Metformin Found To Relieve Osteoarthritis Knee Pain - SciTechDaily",
+            "url": "https://scitechdaily.com/20-pill-vs-20000-surgery-popular-diabetes-drug-metformin-found-to-relieve-osteoarthritis-knee-pain/",
+            "urlToImage": "https://scitechdaily.com/images/Knee-Pain-Osteoarthritis.jpg",
+            "source": "SciTechDaily",
+            "summary": "If people on metformin have less knee pain and are able to do more physical activity, then knee replacements can wait.”\n\nProfessor Cicuttini and her colleagues are now working with consumers, GPs, orthopaedic surgeons and other healthcare professionals to introduce metformin into the knee OA management pathway in order to improve patient outcomes and potentially better target knee replacements. “It is a different way to treat knee OA pain. It could be provided to patients in addition to other treatments they use and has the potential to delay people having knee replacements before they are absolutely needed. The study, published in JAMA, investigated the effects of metformin, a drug commonly prescribed for type 2 diabetes, on knee pain. Osteoarthritis Cartilage.2022 11];30(11):1434-1442\n\nNever miss a breakthrough: Join the SciTechDaily newsletter. PMID: 31551381; PMCID: PMC6773287 Usiskin I. Surgical Treatments for Osteoarthritis. This trend has been partly explained by the lack of effective treatments for knee OA and improved longevity of knee replacements. Wallis JA, Taylor NF, Bunzli S, Shields N. Experience of living with knee osteoarthritis: a systematic review of qualitative studies. Beswick AD, Wylde V, Gooberman-Hill R, Blom A, Dieppe P. What proportion of patients report long-term pain after total hip or knee replacement for osteoarthritis? Implications for Surgery and Healthcare Costs\n\nProfessor Cicuttini said effective treatments that improved knee pain in osteoarthritis were limited. However, a systematic review and meta-analysis provided consistent evidence that mild radiological OA was a major contributor to the 20-30% patient dissatisfaction with knee replacements, including persisting pain[5]. “To go through the effort and cost of a big operation like a knee replacement, only to be unhappy with the results because of ongoing pain and symptoms, is definitely low-quality care."
+        },
+        {
+            "id": "5794fa0a03646e443080f23c5cc8e6ec",
+            "title": "A dangerous E. coli strain has emerged; a small mutation may explain its rise - Ars Technica",
+            "url": "https://arstechnica.com/health/2025/05/a-dangerous-e-coli-strain-has-emerged-a-small-mutation-may-explain-its-rise/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1414386430-2560x1440.jpg",
+            "source": "Ars Technica",
+            "summary": "Now, a sweeping genetic analysis by researchers at the Centers for Disease Control and Prevention suggests a tiny mutation in one of the bacteria's molecular weapons may be behind the strain's rise. Those proteins—called effectors—attack specific targets that collectively disable the host's defense responses and make the host more hospitable for its bacterial conqueror. The mutated weapon is part of a complex system that E. coli and other harmful bacteria sometimes use called a Type 3 Secretion System (T3SS)."
+        },
+        {
+            "id": "a57b3cc8dfdb3e48b2496e5d2d60c50b",
+            "title": "Plastic may be warming the planet more than we thought - The Washington Post",
+            "url": "https://www.washingtonpost.com/climate-environment/2025/05/14/microplastics-climate-change/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y6CPAEQ5VEI63HHGNASTXUYYMQ_size-normalized.jpg&w=1440",
+            "source": "The Washington Post",
+            "summary": "“Without plastics, it would be impossible to meet our climate change goals — plastics make cars lighter, enable solar and wind energy, reduce food waste, and improve energy efficiency in buildings.”\n\nHow plastic disrupts the carbon cycle\n\nOn the surface of the ocean, tiny plankton absorb carbon dioxide into their bodies as they photosynthesize. “But as far as how much … we’re still trying to figure it out.”\n\nIn the soil, plastic changes the way microbes store and release carbon, which could also warm the planet, although Kaufman said there’s not enough research yet to say how much. Kaufman and her co-authors acknowledge that more research is needed to determine how much bigger plastic’s contribution to climate change might be. How plastics may affect the Earth’s reflectivity\n\nNormally, light-colored and reflective surfaces such as snow, ice and clouds reflect the sun’s energy back into space, keeping the Earth from warming up too much."
+        },
+        {
+            "id": "c9396fc62b1780722e03e76a63b783dd",
+            "title": "Second rabid fox attack in one week shakes up Texas community - MySA",
+            "url": "https://www.mysanantonio.com/news/hill-country/article/rabid-fox-hays-county-20327230.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/50/26/75/27356998/3/rawImage.jpg",
+            "source": "mySA",
+            "summary": "Julia Shtanko / 500px/Getty Images/500px Plus\r\nRabies are a life-threatening disease to animals and humans alike and Texans are rightfully concerned wheneve… [+1685 chars] Close-up of gray fox standing in a field."
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "source": "data/news_health_us_20250516_144411.json",
+    "original_category": "health",
+    "original_country": "us",
+    "timestamp": "2025-05-16 14:44:11",
+    "articles": [
+        {
+            "id": "9ae6d0600bb0160dc2f9555dab7e6018",
+            "title": "Always Tired? A Mini-Stroke You Didn’t Notice Could Be Why - SciTechDaily",
+            "url": "https://scitechdaily.com/always-tired-a-mini-stroke-you-didnt-notice-could-be-why/",
+            "urlToImage": "https://scitechdaily.com/images/Asian-Woman-Fatigue-Sad-Body-Pain.jpg",
+            "source": "SciTechDaily",
+            "summary": "Of the participants, 61% experienced fatigue two weeks after the mini-stroke, and 54% experienced fatigue at each of the three other testing time periods at three, six, and 12 months. This could help us better understand who might struggle with fatigue long-term and require further care.”\n\nA limitation of the study was that while participants were asked to complete the questionnaires themselves, it is possible some responses may have been completed with assistance from relatives or caretakers, and this may have influenced responses, including those around fatigue. Reference: “Long-Term Fatigue Following Transient Ischemic AttackA Prospective Cohort Study” by Birgitte Hede Ebbesen, Simon Grøntved, Jakob Nebeling Hedegaard, Søren P. Johnsen, Jane Andreasen, Krystian Figlewski, Mirko Porobic, Michael Skovdal Rathleff and Boris Modrau, 14 May 2025, Neurology. Why Ongoing Monitoring Matters\n\n“Long-term fatigue was common in our group of study participants, and we found that if people experience fatigue within two weeks after leaving the hospital, it is likely they will continue to have fatigue for up to a year,” said Modrau. Researchers looked at how many participants experienced fatigue, as defined as a score of 12 or higher."
+        },
+        {
+            "id": "50ddd8bd07635fce24f8f3e5d04b1732",
+            "title": "Measles outbreak: 11 children hospitalized, three in serious condition - The Jerusalem Post",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85OUxRa0lxb3F5SmxPOVdCU1RfQ0F0TWktMnJ5bmhCaDBJSDRTUXkzSHhNSFF3REdxWkJELWVrYlp3SndpLXduRnMxZVc2RklWNFBQQnRpM0xPWkFlX3c0?oc=5",
+            "urlToImage": null,
+            "source": "Google News",
+            "summary": "Content too short to summarize"
+        },
+        {
+            "id": "802d659a41e2b417bfed8116706a260b",
+            "title": "'Harmless' drink can cause kidney diseases and anxiety disorders in young people - Times of India",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/harmless-drink-can-cause-kidney-diseases-and-anxiety-disorders-in-young-people/articleshow/121096336.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-121096375,width-1070,height-580,imgsize-42796,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "source": "The Times of India",
+            "summary": "The growing body of evidence suggests that energy drinks pose significant risks not only to the mental and physical health of children and adolescents but also to their behavior and academic performance. Urgent action is needed to mitigate these risks and protect young individuals from the harmful effects of these products.Healthier alternatives to energy drinks include herbal teas, natural fruit juices, coconut water, and just plain water. These options provide hydration, essential nutrients, and a moderate energy boost without the negative effects of excessive caffeine or sugar. Sugar-sweetened drinks related to chronic kidney disease, says study\n\nA widely consumed non-alcoholic beverage has gained immense popularity among millions of young individuals, but recent studies have highlighted alarming links between energy drinks and multiple health issues, including heightened risks for heart and kidney complications, as well as anxiety disorders. This detrimental effect is exacerbated when energy drinks are consumed in place of calcium-rich alternatives like milk. Additionally, foods like dark chocolate, green tea, and goji berries can also offer a natural energy boost.Incorporating regular physical activity and getting enough sleep are also crucial for maintaining steady energy levels throughout the day. Blueberries and apples provide natural antioxidants and help combat inflammation while keeping potassium and sodium levels in check.Eating a balanced diet, hydration, controlling blood pressure and blood sugar, limiting smoking and alcohol, and maintaining a healthy weight are crucial for kidney health."
+        },
+        {
+            "id": "5e7c12b26c921891f7a2b2c29522418f",
+            "title": "Mosquito-borne killer disease threatens blackbirds - BBC",
+            "url": "https://www.bbc.com/news/articles/cj3x6v05ly6o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f092/live/8e053ef0-266b-11f0-af27-090e238d1774.jpg",
+            "source": "BBC News",
+            "summary": "The virus has been linked to mass die-offs of blackbirds elsewhere in Europe, though that doesn't seem to be the case in Britain. Usutu virus was first detected more than half a century ago around southern Africa's Usutu River It has since spread around the world, reaching Europe three decades ago, and was picked up for the first time in the UK in 2020 Blackbirds are particularly susceptible to the virus, which can also infect horses and, from time to time, humans. New data shows Usutu has spread across much of southern England in five years, and has been linked to declines in some blackbird populations. Diseases such as Usutu are a growing threat to wild birds, amid a host of other pressures, including habitat loss, climate change and pesticide use. And the blackbird remains one of the commonest garden birds with numbers holding steady in many parts of the country, especially in rural areas, and in the north."
+        },
+        {
+            "id": "e0d02aaeb99210b03a616820366a540c",
+            "title": "Measles Case Confirmed in Williamsburg - COLlive",
+            "url": "https://collive.com/measles-case-confirmed-in-williamsburg/",
+            "urlToImage": "https://collive.com/wp-content/uploads/2025/05/nf_5008_169804-658x439-1.jpg",
+            "source": "COLlive - Chabad News",
+            "summary": "Full Story\n\nBy COLlive reporter\n\nA confirmed case of measles has been reported in the Williamsburg neighborhood, raising serious concern among local health professionals about the potential for a broader outbreak, particularly within the frum community. “Nobody wants their child to get measles,” warned local Crown Heights physician Dr. Eli Rosen of the Crown Heights ODA, in a message to patients. Measles is a highly contagious viral disease that can lead to severe health complications, especially in young children."
+        },
+        {
+            "id": "6559fa9688dee42b295f7a78b29e4c01",
+            "title": "Fox attacks leave Texas community on edge, victim speaks out - Chron",
+            "url": "https://www.chron.com/life/wildlife/article/texas-fox-attack-20327594.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/50/27/16/27358143/3/rawImage.jpg",
+            "source": "Chron.com",
+            "summary": "One of the foxes has since tested positive for rabies. Two incidents involving foxes biting people occurred in Central Texas over the weekend. Benny Bologna/Getty Images/iStockphoto\r\nA troubling st… [+2043 chars]"
+        },
+        {
+            "id": "a2ac5bde58ebdbc85c2655fd8c50a3c5",
+            "title": "7 Medications That Don’t Mix Well With Coffee, According to a Pharmacist - EatingWell",
+            "url": "https://www.eatingwell.com/medications-that-do-not-mix-well-with-coffee-11732968",
+            "urlToImage": "https://www.eatingwell.com/thmb/LwaLGQQ0WZac1r0_xfYNi5E1yIQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7-Medications-That-Dont-Mix-Well-With-Coffee-2264ded5ca2c4f16bd86fd99481acb1d.jpg",
+            "source": "Eatingwell.com",
+            "summary": "While coffee is associated with plenty of health benefits, it’s worth double-checking that it isn’t interfering with any of your medications. Consuming too much caffeine (from coffee, tea or energy drinks) can increase the side effects you may experience while taking this medication.,\n\n7. However, if you have specific questions about potential food or beverage interactions with your medications, be sure to check in with your health care provider. In addition, research has found that coffee can lower the pH in your stomach, which can increase the absorption time of other blood thinners like aspirin. Those with diabetes should be extra cautious when consuming caffeine on this medication—some studies found that combining the two can raise blood sugar and increase body temperature. Antipsychotic Medication\n\nPeople who take antipsychotic medications like phenothiazine, clozapine, haloperidol or olanzapine may need to adjust the timing of their morning coffee. For example, the caffeine in coffee can form a complex with the antidepressant drug escitalopram (Lexapro), making it harder for your body to absorb the medication. Osteoporosis Medication\n\nMedications used to treat osteoporosis, like risedronate and alendronate, shouldn’t be taken with coffee. “Whether it’s caffeinated, decaf or even just milk or juice, these can all reduce absorption due to how the medication binds and dissolves. For example, clozapine competes with coffee to be broken down by liver enzymes."
+        },
+        {
+            "id": "3136471c87320f39ac7b826b5003f6cd",
+            "title": "$20 Pill vs $20,000 Surgery? Popular Diabetes Drug Metformin Found To Relieve Osteoarthritis Knee Pain - SciTechDaily",
+            "url": "https://scitechdaily.com/20-pill-vs-20000-surgery-popular-diabetes-drug-metformin-found-to-relieve-osteoarthritis-knee-pain/",
+            "urlToImage": "https://scitechdaily.com/images/Knee-Pain-Osteoarthritis.jpg",
+            "source": "SciTechDaily",
+            "summary": "If people on metformin have less knee pain and are able to do more physical activity, then knee replacements can wait.”\n\nProfessor Cicuttini and her colleagues are now working with consumers, GPs, orthopaedic surgeons and other healthcare professionals to introduce metformin into the knee OA management pathway in order to improve patient outcomes and potentially better target knee replacements. “It is a different way to treat knee OA pain. It could be provided to patients in addition to other treatments they use and has the potential to delay people having knee replacements before they are absolutely needed. The study, published in JAMA, investigated the effects of metformin, a drug commonly prescribed for type 2 diabetes, on knee pain. Osteoarthritis Cartilage.2022 11];30(11):1434-1442\n\nNever miss a breakthrough: Join the SciTechDaily newsletter. PMID: 31551381; PMCID: PMC6773287 Usiskin I. Surgical Treatments for Osteoarthritis. This trend has been partly explained by the lack of effective treatments for knee OA and improved longevity of knee replacements. Wallis JA, Taylor NF, Bunzli S, Shields N. Experience of living with knee osteoarthritis: a systematic review of qualitative studies. Beswick AD, Wylde V, Gooberman-Hill R, Blom A, Dieppe P. What proportion of patients report long-term pain after total hip or knee replacement for osteoarthritis? Implications for Surgery and Healthcare Costs\n\nProfessor Cicuttini said effective treatments that improved knee pain in osteoarthritis were limited. However, a systematic review and meta-analysis provided consistent evidence that mild radiological OA was a major contributor to the 20-30% patient dissatisfaction with knee replacements, including persisting pain[5]. “To go through the effort and cost of a big operation like a knee replacement, only to be unhappy with the results because of ongoing pain and symptoms, is definitely low-quality care."
+        },
+        {
+            "id": "5794fa0a03646e443080f23c5cc8e6ec",
+            "title": "A dangerous E. coli strain has emerged; a small mutation may explain its rise - Ars Technica",
+            "url": "https://arstechnica.com/health/2025/05/a-dangerous-e-coli-strain-has-emerged-a-small-mutation-may-explain-its-rise/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1414386430-2560x1440.jpg",
+            "source": "Ars Technica",
+            "summary": "Now, a sweeping genetic analysis by researchers at the Centers for Disease Control and Prevention suggests a tiny mutation in one of the bacteria's molecular weapons may be behind the strain's rise. Those proteins—called effectors—attack specific targets that collectively disable the host's defense responses and make the host more hospitable for its bacterial conqueror. The mutated weapon is part of a complex system that E. coli and other harmful bacteria sometimes use called a Type 3 Secretion System (T3SS)."
+        }
+    ]
+}

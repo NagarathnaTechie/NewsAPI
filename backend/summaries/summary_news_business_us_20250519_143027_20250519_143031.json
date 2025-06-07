@@ -1,0 +1,88 @@
+{
+    "source": "data/news_business_us_20250519_143027.json",
+    "original_category": "business",
+    "original_country": "us",
+    "timestamp": "2025-05-19 14:30:27",
+    "articles": [
+        {
+            "id": "bfa0a73fc7aa763652aa6553398a41d4",
+            "title": "Nvidia seeks to build its business beyond Big Tech - Financial Times",
+            "url": "https://www.ft.com/content/2ba1d064-242d-4a2a-a381-374d9643e23a",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8d38d397-d842-4aa5-8b3a-fc2300aaf091.jpg?source=next-barrier-page",
+            "source": "Financial Times",
+            "summary": "Complete digital access to quality FT journalism on any device. Try unlimited access Only Rs100 for 4 weeks\n\nThen Rs4335 per month. Cancel anytime during your trial."
+        },
+        {
+            "id": "13f47e53b6d59ef2b68dfe41866041c8",
+            "title": "FDA approves Novavax COVID-19 shot but with unusual restrictions - AP News",
+            "url": "https://apnews.com/article/novavax-covid19-vaccine-fda-a477c1aa612ceb293e70d904b46611b0",
+            "urlToImage": "https://dims.apnews.com/dims4/default/877d8cb/2147483647/strip/true/crop/4959x2789+0+258/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F49%2F18%2Fa071c1a2e9c2e25a5d5a31f70451%2Fbb1f9522401d46799998e0a09444a3b9",
+            "source": "Associated Press",
+            "summary": "WASHINGTON (AP) — The Food and Drug Administration has issued a long-awaited approval of Novavax’s COVID-19 vaccine but with unusual restrictions. But late Friday, the FDA granted the company full approval for its vaccine for use only in adults 65 and older – or those 12 to 64 who have at least one health problem that puts them at increased risk from COVID-19. Novavax originally showed its vaccine was safe and effective in a 30,000-person clinical trial."
+        },
+        {
+            "id": "95bf1035eb03bc81bf2ac1179ab69f71",
+            "title": "Spectrum down in Kansas City due to cut fiber lines, provider says - FOX4KC.com",
+            "url": "https://fox4kc.com/news/spectrum-down-in-kansas-city-due-to-cut-fiber-lines-provider-says/",
+            "urlToImage": "https://fox4kc.com/wp-content/uploads/sites/16/2022/05/000_macbook-vs-surface-go-839a26-2.jpg?w=1280",
+            "source": "WDAF FOX4 Kansas City",
+            "summary": "— If you’re a Spectrum customer in the Kansas City Metro, you’ve likely been without services for the better part of today, May 17. KANSAS CITY, Mo. Spectrum says that’s due to two separate fiber li… [+1094 chars]"
+        },
+        {
+            "id": "771fc93575e1a5fcd08a9ae898f30f4d",
+            "title": "Rail strike latest: NJ Transit, BLET chairman agree that talks are ‘moving in the right direction’ - News 12 - New Jersey",
+            "url": "https://newjersey.news12.com/nj-transit-ceo-says-deal-in-engineer-strike-is-close-sides-meet-at-1-pm",
+            "urlToImage": "https://images-cf.news12static.com/3kqcuzntcg31/3JEAZEauzekwwyOYvO6vhK/0c08ebcbc913ec13a2214cd5b0583993/8ad1143a-0918-4aa3-ab58-3fb7f7ffb534.jpg?fit=thumb&w=600&h=340&q=80&fm=webp",
+            "source": "News12.com",
+            "summary": "\"…We're sitting down and talking, we're moving in the right direction,\" Haas said. My guys would like nothing more than to be at work and not out here,\" Haas said. \"We want to be back at work."
+        },
+        {
+            "id": "d5efdbc011a9332abde56c9a396ba761",
+            "title": "Nearly 18,000 containers of ice cream recalled for potential plastic contamination - NBC News",
+            "url": "https://www.nbcnews.com/news/us-news/ice-cream-recalled-plastic-rcna207471",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250517-ice-cream-ch-1613-0dad1e.jpg",
+            "source": "NBC News",
+            "summary": "A full list of recalled products with identifying information can be found in the FDA report. The recall includes 22 flavors sold in 3-gallon tubs, sent to more than 100 distribution centers across the U.S., including locations in Iowa, Michigan, Illinois and Texas. The FDA categorized the recall as Class II, meaning consumption of the product can cause “temporary or medically reversible adverse health consequences,” according to the FDA website."
+        },
+        {
+            "id": "32c75be0e18f800f49e2554ea1de3b0b",
+            "title": "Moody's downgrades US credit rating due to rising debt - Cointelegraph",
+            "url": "https://cointelegraph.com/news/moodys-downgrades-us-credit-rating",
+            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-05/0196df9d-2893-760b-bb3d-327fbd565418",
+            "source": "Cointelegraph",
+            "summary": "Source: US National Debt Clock\n\nDespite the negative short to medium-term credit outlook, Moody's maintained a positive outlook on the long-term health of the United States, citing its robust economy and the status of the US dollar as the global reserve currency as strengths, reflecting \"balanced\" lending risks. As the debt climbs and investors lose faith in US government securities, bond yields will spike, causing the debt service payments to go up, further inflating the national debt. Source: TradingView\n\nUS government debt surpassed $36 trillion in January 2025 and shows no signs of slowing, despite recent efforts by Elon Musk and others to reduce federal spending and curtail the national debt."
+        },
+        {
+            "id": "4effa1dc175f6fd3220bc1503ac4c8f6",
+            "title": "Behind Microsoft Layoffs, Automation Efforts Boom - The Information",
+            "url": "https://www.theinformation.com/articles/behind-microsoft-layoffs-automation-efforts-boom",
+            "urlToImage": "https://tii.imgix.net/production/articles/15060/1431785c-1d2e-4e7a-962c-2632a8a3b5b7.jpg?fm=jpg&auto=compress&w=1200&frame=0",
+            "source": "The Information",
+            "summary": "Content too short to summarize"
+        },
+        {
+            "id": "266f129b4689dfb6373ee20fe815c8ef",
+            "title": "MIT disavows doctoral student paper on AI’s productivity benefits - TechCrunch",
+            "url": "https://techcrunch.com/2025/05/17/mit-disavows-doctoral-students-paper-on-ai-productivity-benefits/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1497617145-1.jpg?resize=1200,800",
+            "source": "TechCrunch",
+            "summary": "MIT says that due to student privacy laws, it cannot disclose the results of that review, but the paper’s author is “no longer at MIT.” And while the university’s announcement does not name the author, both a preprint version of the paper and the initial press coverage identify him as Aidan Toner-Rodgers. MIT also says it has requested the paper be withdrawn from The Quarterly Journal of Economics, where it was submitted for publication, and from the preprint website arXiv. MIT economists Daron Acemoglu (who recently won the Nobel Prize) and David Autor both praised the paper last year, with Autor telling the Wall Street Journal he was “floored.” In a statement included in MIT’s announcement on Friday, Acemoglu and Autor described the paper as “already known and discussed extensively in the literature on AI and science, even though it has not been published in any refereed journal.”\n\nHowever, the two economists said they now have “no confidence in the provenance, reliability or validity of the data and in the veracity of the research.”\n\nAccording to the WSJ, a computer scientist with experience in materials science approached Acemoglu and Autor with concerns in January."
+        },
+        {
+            "id": "154003a0d763aac13fd7ffb8f4e1d5e7",
+            "title": "TechCrunch Week in Review: Coinbase gets hacked - TechCrunch",
+            "url": "https://techcrunch.com/2025/05/17/techcrunch-week-in-review-coinbase-gets-hacked/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1304243736.jpeg?resize=1200,718",
+            "source": "TechCrunch",
+            "summary": "Analysis\n\nImage Credits:Uber\n\nAnd speaking of Uber: In 2022, senior reporter Rebecca Bellan wrote an article titled “The Amazonification of Uber” about how the company was becoming more of a closed loop to keep customers engaged. Now the company is taking it a step further, introducing Uber One Member Days, a week of discounts designed to boost its subscription program and expand its role beyond transportation. The New York Times spoke with two investors who said they were pitched a new startup that aims to deliver “human health optimization” using blood testing. We’ve got tons of news for you this week, including a hack at Coinbase; YC thinks Google is a ‘monopolist’; layoffs at Microsoft; and much more. The most recent case: Granola, an AI note-taking app that’s recently seen a boost in usage, even though it launched a year ago. Just call it a bus: Uber is introducing Route Share, a commuter shuttle service that will pick up passengers at pre-set stops in 20-minute intervals. This is TechCrunch’s Week in Review, where we recap the week’s biggest news."
+        },
+        {
+            "id": "d5bb5d024d4b45380a700224cf04b115",
+            "title": "REI’s anniversary sale is dropping prices on Garmins and other great outdoor gear - The Verge",
+            "url": "https://www.theverge.com/tech/668088/rei-anniversary-sale-2025-garmin-watch-inreach-stoves-water-filters-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24483620/236554_Garmin_Forerunner_265S_AKrales_0072.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "source": "The Verge",
+            "summary": "The compact stove is pretty basic, but it offers everything you need for simple, reliable camp cooking. It’s easy to carry and set up as well, with a durable steel cooktop and a removable chrome-plated grate for easy cleanup. It’s got enough cooking power to handle most meals and two burners, so you can cook multiple things at once."
+        }
+    ]
+}
